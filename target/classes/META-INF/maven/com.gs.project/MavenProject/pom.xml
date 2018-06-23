@@ -18,9 +18,9 @@
 	</distributionManagement>
 	
 	<scm>
-		<connection>scm:git:https://github.com/gauravthegladiator/MavenProject.git</connection>
-		<developerConnection>scm:git:https://github.com/gauravthegladiator/MavenProject.git</developerConnection>
-		<url>scm:git:https://github.com/gauravthegladiator/MavenProject.git</url>
+		<connection>scm:git:git@github.com:gauravthegladiator/MavenProject.git</connection>
+		<developerConnection>scm:git:git@github.com:gauravthegladiator/MavenProject.git</developerConnection>
+		<url>scm:git:git@github.com:gauravthegladiator/MavenProject.git</url>
 	</scm>
 	
 	<build>
